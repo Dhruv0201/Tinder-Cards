@@ -1,0 +1,35 @@
+.Tinder-Footer{
+    width: 96%;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 60px;
+}
+
+.Tinder-Footer .replay{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0, 0, 0.3);
+    color:  rgb(193, 33, 60);
+    
+}
+
+.Tinder-Footer .close{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0, 0, 0.3);
+    color:  blue;
+}
+.Tinder-Footer .star{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0, 0, 0.3);
+    color:  green;
+}
+.Tinder-Footer .fav{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0, 0, 0.3);
+    color:  yellow;
+}
+.Tinder-Footer .flash{
+    padding: 3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0, 0, 0.3);
+    color:  green;
+}
